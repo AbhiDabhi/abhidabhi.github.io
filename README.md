@@ -1,6 +1,7 @@
 # abhidabhi.github.io
 
 This is my Portfolio (In progress). 
-##Technologies: 
+
+## Technologies: 
 ### Front-End:
 - React, Redux, JavaScript, HTML, CSS, SCSS, and Bootstrap.
